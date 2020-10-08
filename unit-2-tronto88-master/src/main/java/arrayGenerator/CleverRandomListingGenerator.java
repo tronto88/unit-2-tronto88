@@ -21,7 +21,6 @@ public class CleverRandomListingGenerator extends RandomListingGenerator {
             int temp = getArray()[i];
             getArray()[i] = getArray()[j];
             getArray()[j] = temp;
-
         }
         
 
